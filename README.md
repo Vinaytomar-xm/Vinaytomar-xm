@@ -2,28 +2,35 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hii,%20I%20Am%20Vinay%20Singh%20Tomar&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<img src="https://komarev.com/ghpvc/?username=Vinaytomar-xm&label=PROFILE+VIEWS&color=0d1117&style=for-the-badge&labelColor=161B22"/>
+<img align = "right" src="https://komarev.com/ghpvc/?username=Vinaytomar-xm&label=PROFILE+VIEWS&color=0d1117&style=for-the-badge&labelColor=161B22"/>
 
+</div>
+
+<div align="left">
+<a href="https://linkedin.com/in/vinay-singh-tomar-5b65b9377" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/vtomar-xm" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://github.com/Vinaytomar-xm" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:tomarvinaysingh70@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
 <br/>
 
 ```bash
 $ whoami
-> Vinay Singh Tomar — CS Undergrad @ Medi-Caps University
+> Vinay Singh Tomar — 2nd year CS Student @ Medi-Caps University
 
 $ cat interests.txt
 > Full-Stack Development (MERN)  |  Backend Systems  |  Auth & Security
 
 $ echo $CURRENT_FOCUS
-> Building production-grade web apps with role-based access & JWT auth
+> Building production-grade web apps with role-based access, JWT auth, & complete fullstack web application
 ```
 
 <br/>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=const+dev+%3D+%7B+stack%3A+%22MERN%22+%7D%3B;Debugging+CORS+at+3AM+%F0%9F%94%A7;JWT+in+httpOnly+cookies+%F0%9F%94%92;Always+shipping+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=const+dev+%3D+%7B+stack%3A+%22MERN%22+%7D%3B;Debugging+CORS+%F0%9F%94%A7;Frontend+Developer+%F0%9F%94%92;Backend+Developer+%F0%9F%9A%80;Fullstack+Developer+%F0%9F%9A%80;Always+shipping+%F0%9F%9A%80"/>
 
 </div>
 
@@ -31,12 +38,11 @@ $ echo $CURRENT_FOCUS
 
 ## 📌 About
 
-- 🎓 1st year **Computer Science** student at **Medi-Caps University**
+- 🎓 2nd year **Computer Science** student at **Medi-Caps University**
 - 🌱 Started with HTML, found my edge in **backend development**
 - 🛠️ Comfortable across the **MERN stack** — MongoDB, Express, React, Node.js
 - 🐍 Also work with **Python** and **C** for problem-solving
-- 🔐 Focused on real-world concerns: auth, security hardening, role-based access
-- ⚡ Currently building a full production-grade Attendance Management System
+- 🔐 Focused on real-world concerns: auth, security hardening, role-based access, logic building
 
 <br/>
 
@@ -52,7 +58,7 @@ $ echo $CURRENT_FOCUS
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 
-<br/><br/>
+<br/>
 
 **Frontend**
 <br/>
@@ -63,17 +69,18 @@ $ echo $CURRENT_FOCUS
 <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white"/>
 
-<br/><br/>
+<br/>
 
 **Backend & Database**
 <br/>
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
 <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101"/>
 
-<br/><br/>
+<br/>
 
 **Tools & Deployment**
 <br/>
@@ -104,20 +111,14 @@ $ echo $CURRENT_FOCUS
 
 <br/>
 
-## 🏆 GitHub Trophies
+## Let's Connect
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Vinaytomar-xm&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1"/>
-</div>
 
-<br/>
+Open to internships, freelance work, and collaborative projects.
 
-## 🌐 Connect
+<a href="mailto:tomarvinaysingh70@gmail.com"><img src="https://img.shields.io/badge/tomarvinaysingh70%40gmail.com-Reach%20Out-2c5364?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<div align="center">
-<a href="https://linkedin.com/in/vinay-singh-tomar-5b65b9377" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/vtomar-xm" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="mailto:tomarvinaysingh70@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
 <br/>
