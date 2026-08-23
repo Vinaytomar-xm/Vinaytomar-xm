@@ -30,7 +30,7 @@ $ echo $CURRENT_FOCUS
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=const+dev+%3D+%7B+stack%3A+%22MERN%22+%7D%3B;Debugging+Errors+%F0%9F%94%A7;Frontend+Developer+%F0%9F%94%92;Backend+Developer+%F0%9F%9A%80;Fullstack+Developer+%F0%9F%9A%80;Always+shipping+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=const+dev+%3D+%7B+stack%3A+%22MERN%22+%7D%3B;Debugging+Errors+%F0%9F%94%A7;Frontend+Developer+%F0%9F%94%92;Backend+Developer+%F0%9F%9A%80;Fullstack+Developer+%F0%9F%9A%80"/>
 
 </div>
 
