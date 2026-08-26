@@ -41,7 +41,7 @@ $ echo $CURRENT_FOCUS
 -  2nd year **Computer Science** student at **Medi-Caps University**
 -  Started with HTML, found my edge in **backend development**
 -  Comfortable across the **MERN stack** — MongoDB, Express, React, Node.js
--  Also work with  **Java** **Python** **C++** and **C** for problem-solving
+-  Also work with  **Java**, **Python**, **C++** and **C** for problem-solving
 -  Focused on real-world concerns: auth, security hardening, role-based access, logic building
 
 <br/>
