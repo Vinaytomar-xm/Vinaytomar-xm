@@ -2,8 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hii,%20I%20Am%20Vinay%20Singh%20Tomar&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-[<img align = "right" src="https://komarev.com/ghpvc/?username=Vinaytomar-xm&label=PROFILE+VIEWS&color=0d1117&style=for-the-badge&labelColor=161B22"/>
-](https://komarev.com/ghpvc/?username=Vinaytomar-xm&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge&labelColor=161B22&utm_source=chatgpt.com)
+<img align = "right" src="https://komarev.com/ghpvc/?username=Vinaytomar-xm&label=PROFILE+VIEWS&color=0d1117&style=for-the-badge&labelColor=161B22"/>
 </div>
 
 <div align="left">
